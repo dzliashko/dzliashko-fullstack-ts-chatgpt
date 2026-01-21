@@ -1,4 +1,4 @@
-Создай src/index.ts и реализуй:
+# Создай src/index.ts и реализуй:
 
 // 1
 function sum(a: number, b: number): number {}
