@@ -1,2 +1,3 @@
-# dzliashko-fullstack-ts-chatgpt
-dzliashko/fullstack-ts-chatgpt
+# fullstack-ts-chatgpt
+
+Learning fullstack TypeScript with ChatGPT
